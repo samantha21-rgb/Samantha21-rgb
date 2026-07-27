@@ -2,25 +2,37 @@
 
 # 👋 Hello, I'm Samantha
 
-### 🎓 Data Science Student | 🐍 Python Developer | 🤖 Future AI Engineer
+### 🎓 Bachelor of Science in Data Science
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Data+Science+Student;Python+Developer;Machine+Learning+Enthusiast;Building+Projects+Every+Day" />
+### 🐍 Python Developer • 📊 Data Analyst • 🤖 Machine Learning Engineer
+
+### 🧠 Artificial Intelligence Enthusiast • 💾 SQL Developer • 🌐 Web Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Data+Science+%7C+Machine+Learning+%7C+AI;Python+Developer;SQL+Developer;Web+Developer;Building+Projects+That+Solve+Real+Problems" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samantha21-rgb&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=samantha21-rgb&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+---
 
-- 🎓 Bachelor of Science in Data Science
-- 💻 Passionate about Artificial Intelligence & Machine Learning
-- 🌱 Currently learning Python, SQL, Web Development & Statistics
-- 📈 Building practical Data Science projects
-- 🎯 Goal: Become a professional Data Scientist and AI Engineer
+## 👩‍💻 About Me
+
+💡 I enjoy solving real-world problems with data.
+
+📊 I build projects in Data Science, Machine Learning and AI.
+
+🐍 Python is my primary programming language.
+
+🗄️ I design and manage SQL databases.
+
+🌐 I also develop modern web applications.
+
+📚 I believe in learning by building.
 
 ---
 
@@ -97,7 +109,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=White"/>
 </a>
 
-<a href="www.linkedin.com/in/valarie-samantha-data-science">
+<a href="https://www.linkedin.com/in/valarie-samantha-data-science">
 
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=White"/>
 </a>
