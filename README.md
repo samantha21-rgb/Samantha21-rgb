@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Samantha Banner" width="100%">
+</p>
+
 <div align="center">
 
 # 👋 Hello, I'm Samantha
