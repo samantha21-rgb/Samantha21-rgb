@@ -68,15 +68,6 @@
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=samantha21-rgb&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samantha21-rgb&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
