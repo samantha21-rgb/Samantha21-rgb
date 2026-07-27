@@ -56,6 +56,47 @@
 
 ---
 
+
+# 📂 Featured Projects
+
+### 📊 DataSphere
+A growing portfolio of Data Science projects featuring data analysis, visualization, statistics, and machine learning.
+
+---
+
+### 🐍 Python Projects
+A collection of Python applications, automation scripts, and problem-solving projects built while strengthening my programming skills.
+
+---
+
+### 🗄️ SQL Projects
+Database design, SQL queries, data modeling, and database management projects.
+
+---
+
+### 🤖 Machine Learning
+Predictive models, classification algorithms, regression models, recommendation systems, and AI experiments.
+
+---
+
+### 🌐 Web Development
+Modern responsive websites and web applications built with HTML, CSS, JavaScript, and GitHub.
+
+# ⚡ Tools & Technologies
+
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Pandas
+- 🔢 NumPy
+- 📈 Matplotlib
+- 🤖 Scikit-learn
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚙️ JavaScript
+- 🛠️ Git & GitHub
+- 💻 VS Code
+
+- 
 ## 🌱 Currently Learning
 
 - 🐍 Advanced Python
@@ -121,4 +162,4 @@
 
 </div>
 
->*"Turning data into Insights, one project at a time."*
+> 💡 *"I believe the best way to learn Data Science is by building real-world solutions, one project at a time."*
